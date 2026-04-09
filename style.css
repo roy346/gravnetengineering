@@ -50,7 +50,7 @@ header {
 
 /* Hero Section */
 .hero {
-    background: linear-gradient(rgba(0, 40, 85, 0.8), rgba(0, 40, 85, 0.9)), url('https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&q=80&w=2000') center/cover;
+    background: linear-gradient(rgba(0, 40, 85, 0.8), rgba(0, 40, 85, 0.9)), url('gravnet1.jpg') center/cover;
     color: var(--text-light);
     text-align: center;
     padding: 6rem 2rem;
